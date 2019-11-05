@@ -2,7 +2,7 @@
 //
 // Created by: Liam Hearty
 // Created on: October 2019
-// This program uses a while loop inside another loop.
+// This program uses a loop inside another loop.
 
 
 #include <iostream>
